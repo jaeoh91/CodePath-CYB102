@@ -13,3 +13,6 @@
 *.log
 tmp/
 temp/
+
+# Eml files (Some contain malware)
+*.eml

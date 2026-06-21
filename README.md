@@ -5,8 +5,8 @@ This repository tracks my progress through the Intermediate Cybersecurity course
 ## Project Structure
 
 - `Unit-1/`: Traffic Analysis and basic security logs
-    - `Lab-1-Traffic-Analysis/`: PCAP analysis and DHCP log examination
+    - `Lab-1/`: PCAP analysis and DHCP log examination
+- `Unit-2/`: Endpoint Monitoring
+    - `Lab-2/`: File Monitoring with Linux Audit Daemon (Auditd)
+    - `Project-2/`: Identifying Modified Files via Auditd Event Logs
 
-## Progress Tracking
-
-I will be uploading my completed labs and documentation here to maintain a record of my learning and skill development in cybersecurity.
