@@ -16,3 +16,6 @@ temp/
 
 # Eml files (Some contain malware)
 *.eml
+
+# PDFs
+*.pdf
